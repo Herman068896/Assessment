@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e9b3e5ecebea24b7182503a2326fda93
+guid: 33dfa7011a36c4d8bb7b90a451d76531
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,43 +97,64 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: cat_walk_down_0
+      name: dog_blue_left_0
       rect:
         serializedVersion: 2
-        x: 44
-        y: 40
-        width: 36
-        height: 64
+        x: 4
+        y: 44
+        width: 80
+        height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e25030fbbf25b4ceea39cb66b7eef758
-      internalID: 679371072
+      spriteID: c46b043c7e338473b83023d18eb5fd70
+      internalID: -1137366644
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cat_walk_down_1
+      name: dog_blue_left_1
       rect:
         serializedVersion: 2
-        x: 172
-        y: 40
-        width: 36
-        height: 64
+        x: 132
+        y: 44
+        width: 80
+        height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 264e876c7faa94ad0b352acf5029e352
-      internalID: -1850464960
+      spriteID: 4daa0bb6f1f6e4ff09f714c2d4a7a0ad
+      internalID: 1799552014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_blue_left_2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 44
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56fd241ced734c99b00a03dbca84d9c
+      internalID: 1700820372
       vertices: []
       indices: 
       edges: []
@@ -141,7 +162,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: b6cd6cf62902445f49e44f57f0cbc83b
+    spriteID: f57c73c4d97ec477c83951bb76dd293f
     internalID: 0
     vertices: []
     indices: 
@@ -149,8 +170,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      cat_walk_down_0: 679371072
-      cat_walk_down_1: -1850464960
+      dog_blue_left_0: -1137366644
+      dog_blue_left_1: 1799552014
+      dog_blue_left_2: 1700820372
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

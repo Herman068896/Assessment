@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e9b3e5ecebea24b7182503a2326fda93
+guid: abd9ec3a6b7b645b68ab784f77da223f
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,43 +97,64 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: cat_walk_down_0
+      name: dog_green_up_0
       rect:
         serializedVersion: 2
         x: 44
         y: 40
-        width: 36
+        width: 48
         height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e25030fbbf25b4ceea39cb66b7eef758
-      internalID: 679371072
+      spriteID: 43b45c65b01164708a75281b262a3d96
+      internalID: 1766360749
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cat_walk_down_1
+      name: dog_green_up_1
       rect:
         serializedVersion: 2
         x: 172
         y: 40
-        width: 36
+        width: 48
         height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 264e876c7faa94ad0b352acf5029e352
-      internalID: -1850464960
+      spriteID: 15938f16cdd114d64adf4e59da813f08
+      internalID: 2077154424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_green_up_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 40
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb26fc9d607fc484f8c474323bdcb7e6
+      internalID: -646122726
       vertices: []
       indices: 
       edges: []
@@ -141,7 +162,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: b6cd6cf62902445f49e44f57f0cbc83b
+    spriteID: 57d144d3f53ae4f54a11c41910ee6ff3
     internalID: 0
     vertices: []
     indices: 
@@ -149,8 +170,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      cat_walk_down_0: 679371072
-      cat_walk_down_1: -1850464960
+      dog_green_up_0: 1766360749
+      dog_green_up_1: 2077154424
+      dog_green_up_2: -646122726
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

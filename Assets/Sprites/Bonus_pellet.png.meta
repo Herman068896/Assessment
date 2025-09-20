@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e9b3e5ecebea24b7182503a2326fda93
+guid: 681006059ace54995b9d7114e3f15f9f
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,43 +97,22 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: cat_walk_down_0
+      name: extra_rewards_0
       rect:
         serializedVersion: 2
-        x: 44
-        y: 40
-        width: 36
-        height: 64
+        x: 12
+        y: 32
+        width: 100
+        height: 84
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e25030fbbf25b4ceea39cb66b7eef758
-      internalID: 679371072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cat_walk_down_1
-      rect:
-        serializedVersion: 2
-        x: 172
-        y: 40
-        width: 36
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 264e876c7faa94ad0b352acf5029e352
-      internalID: -1850464960
+      spriteID: b3d4ba2febf574015a325f11e1198544
+      internalID: 1357835734
       vertices: []
       indices: 
       edges: []
@@ -141,7 +120,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: b6cd6cf62902445f49e44f57f0cbc83b
+    spriteID: 6fb34cd9852aa45bca095b42f2d8378c
     internalID: 0
     vertices: []
     indices: 
@@ -149,8 +128,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      cat_walk_down_0: 679371072
-      cat_walk_down_1: -1850464960
+      extra_rewards_0: 1357835734
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
