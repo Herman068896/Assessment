@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9a83dc12c03374704a9821e880723d80
+guid: e24caa68216274b169ca5f85677df701
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -97,13 +97,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: mouse_0
+      name: Mouse (3)_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 10
-        width: 16
-        height: 12
+        x: 32
+        y: 40
+        width: 64
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -111,20 +111,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: df25bd515c3a745b694537f27569db3c
-      internalID: -449537691
+      spriteID: 8fb4f71d39fb4490e8086acd6147c21b
+      internalID: 751100187
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mouse_1
+      name: Mouse (3)_1
       rect:
         serializedVersion: 2
-        x: 40
-        y: 10
-        width: 16
-        height: 12
+        x: 160
+        y: 40
+        width: 64
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -132,8 +132,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e727013d380a6480cb8d75dfca1c4fc2
-      internalID: -1680304427
+      spriteID: fa4eb35f7669b4950aa31ece1ca11272
+      internalID: 2089227333
       vertices: []
       indices: 
       edges: []
@@ -141,7 +141,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 5b6efb6a612af4b5e916f46f253b3c2d
+    spriteID: 65f672450315449b482576c3f99e1d38
     internalID: 0
     vertices: []
     indices: 
@@ -149,8 +149,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      mouse_0: -449537691
-      mouse_1: -1680304427
+      Mouse (3)_0: 751100187
+      Mouse (3)_1: 2089227333
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
