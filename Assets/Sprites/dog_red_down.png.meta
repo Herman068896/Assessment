@@ -100,12 +100,12 @@ TextureImporter:
       name: dog_red_down_0
       rect:
         serializedVersion: 2
-        x: 36
-        y: 24
-        width: 48
-        height: 64
+        x: 0
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -121,12 +121,12 @@ TextureImporter:
       name: dog_red_down_1
       rect:
         serializedVersion: 2
-        x: 164
-        y: 24
-        width: 48
-        height: 64
+        x: 128
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -142,12 +142,12 @@ TextureImporter:
       name: dog_red_down_2
       rect:
         serializedVersion: 2
-        x: 292
-        y: 24
-        width: 48
-        height: 64
+        x: 256
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
